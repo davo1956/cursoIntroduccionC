@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1687846135 "/home/david/curso-c/notas-curso/main.tex" "main.pdf" "main" 1687846135 0
-  "/home/david/curso-c/notas-curso/main.tex" 1687846134 8159 3c8b60cbe7269bf648eb84e0cdb2b081 ""
+["pdflatex"] 1687846965 "/home/david/curso-c/notas-curso/main.tex" "main.pdf" "main" 1687846965 0
+  "/home/david/curso-c/notas-curso/main.tex" 1687846965 8207 633f50a14632cc7d6dad2e227d485c53 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1680514707 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1680514707 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1680514707 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -66,8 +66,8 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1681265899 8204104 7833c990d65d676da9d1bbc544cc58c3 ""
   "Portada.pdf" 1687324099 319686 2c86014285955e6c11f41eec33a9a139 ""
   "images/7 pasos.png" 1687844310 73659 d2aa1357b721d6145a3c6044f0ca5f68 ""
-  "main.aux" 1687846135 276 0ab98a66168b0f9b70e0f2853be4d9f3 "pdflatex"
-  "main.tex" 1687846134 8159 3c8b60cbe7269bf648eb84e0cdb2b081 ""
+  "main.aux" 1687846965 276 0ab98a66168b0f9b70e0f2853be4d9f3 "pdflatex"
+  "main.tex" 1687846965 8207 633f50a14632cc7d6dad2e227d485c53 ""
   (generated)
   "main.aux"
   "main.log"
